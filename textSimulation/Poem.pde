@@ -9,7 +9,8 @@ class Poem{
   "and the whores and the bartenders and the grocery clerks",
   "never know that he’s in there.",
   "There’s a bluebird in my heart that wants to get out",
-  "but I’m too tough for him,", "I say,",
+  "but I’m too tough for him,",
+  "I say,",
   "stay down, do you want to mess me up?",
   "do you want to screw up the works?", 
   "do you want to blow my book sales in Europe?",
@@ -23,8 +24,8 @@ class Poem{
   "but he’s singing a littlein there,",
   "I haven’t quite let him die",
   "and we sleep together like that",
-  "with our nsecret pact",
-  "and it’s nice enough to make a manweep,",
+  "with our secret pact",
+  "and it’s nice enough to make a man weep,",
   "but I don’t weep,",
   "Do you?"};
    Poem(){

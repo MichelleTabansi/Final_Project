@@ -20,12 +20,12 @@ class FadingLine{
   }
   
   void update(){
-    if(tracker<101){
-       if(tracker<50){
-         fade+=5; 
+    if(tracker<51){
+       if(tracker<25){
+         fade+=10; 
       }
-     if(tracker>50){
-        fade-=5;
+     if(tracker>25){
+        fade-=10;
      }
      if(fade<=0){
         fade=0;
